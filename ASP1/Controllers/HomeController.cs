@@ -17,7 +17,7 @@ namespace ASP1.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "On God -Flom";
+            ViewData["Message"] = "Yote";
             ViewData["MoreInformation"] = "This is some more info";
 
             return View();
